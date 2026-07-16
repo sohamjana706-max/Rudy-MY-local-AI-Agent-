@@ -1,0 +1,9 @@
+# Ignore Rudy's generated test files
+**/Mission_Control/
+**/*_weather.txt
+**/*_updates.txt
+**/sandbox/
+
+# Ignore Python local caches
+__pycache__/
+*.pyc
