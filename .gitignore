@@ -7,3 +7,6 @@
 # Ignore Python local caches
 __pycache__/
 *.pyc
+# Ignore memory cores and text files
+**/rudy_memory/
+**/*.txt
